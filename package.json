@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "snoostorm": "^1.5.2"
+  },
+  "name": "optn-bot",
+  "version": "1.0.0",
+  "description": "Automod bot for r/ForzaOpenTunes",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "16.14.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
