@@ -1,7 +1,7 @@
 {
     "fancyPantsTag": "<p>[View this tune on <a href=\"https://optn.club\">optn.club</a>](<a href=\"https://optn.club/formatter\">https://optn.club/formatter</a>)</p>",
     "tuneFormatterTag": "<p><a href=\"https://optn.club/formatter\">View this tune on optn.club</a></p>",
-    "staticMessage": "*Come join the OPTN Discord server! (https://discord.gg/OPTN) Once you get in, be sure to visit the Rules-and-Roles channel and pick up the Forza Horizon role there to unlock the channels specific to FH5.*\n",
+    "staticMessage": "*Come join the [OPTN Discord server!](https://discord.gg/OPTN) Once you get in, be sure to visit the Rules-and-Roles channel and pick up the Forza Horizon role there to unlock the channels specific to FH5.*\n",
     "fancyPantsWarning": "**Oh no! You posted in Fancy Pants Editor mode. To make sure your tune is formatted correctly, please edit your post and switch to Markdown mode. You should see \"Switch to markdown Mode\" on the right side of the textbox navbar.** \n\n",
     "tuneFormatterText": "**Thank you for using the OPTN tune formatter! Report any bugs or issues on the OPTN-Club github, or message one of the admins.** \n\n",
     "footer": "***\n^Visit ^https://optn.club/ ^for ^a ^tune ^formatter, ^tune ^calculator, ^and ^tuning ^guide."
