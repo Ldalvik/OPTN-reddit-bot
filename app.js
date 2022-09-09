@@ -13,7 +13,7 @@ const credentials = {
 const client = new Snoowrap(credentials)
 
 const BOT_START = Date.now() / 1000
-const forzaOpenTunes = { subreddit: "OptnTools", limit: 50, pollTime: 3000 }
+const forzaOpenTunes = { subreddit: "ForzaOpenTunes", limit: 50, pollTime: 3000 }
 const granTurismoOpenTunes = { subreddit: "GranTurismoOpenTunes", limit: 50, pollTime: 3000 }
 
 new SubmissionStream(client, forzaOpenTunes).on('item', (post) => {
